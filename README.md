@@ -13,7 +13,6 @@ With Weatherly, you can experience weather like never before, whether checking c
 - Current weather updates with detailed information
 - 5-day weather forecast to plan ahead
 - Easy city selection using current location or manual input
-- Utilizes WeatherView, BlurView, Retrofit, Gson, OkHttp, SharedPreferences, MVVM architecture, Permission handling, and Location services
 
 ## Technologies Used 🛠️
 
